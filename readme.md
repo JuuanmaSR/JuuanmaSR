@@ -6,4 +6,4 @@ pero deseo que se convierta en mi rutina diaria, a esto lo complementa mi pasió
 
 | Detalle de projecto | Enlace/repositorio |
 | ------------- | ------------- |
-| Sistema de gestión de alquileres de vehiculos  | [Caronline](https://github.com/JuuanmaSR/Caronline--rent-a-car)  |
+| Sistema de gestión de alquileres de vehículos  | [Caronline](https://github.com/JuuanmaSR/Caronline--rent-a-car)  |
