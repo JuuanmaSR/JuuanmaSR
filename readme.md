@@ -7,3 +7,4 @@ pero deseo que se convierta en mi rutina diaria, a esto lo complementa mi pasió
 | Detalle de projecto | Enlace/repositorio |
 | ------------- | ------------- |
 | Sistema de gestión de alquileres de vehículos  | [Caronline](https://github.com/JuuanmaSR/Caronline--rent-a-car)  |
+| Pokedex resultado de la tarea de un curso  | [Pokedex](https://github.com/JuuanmaSR/Pokedex-tarea-clase-12)  |
