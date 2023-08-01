@@ -1,7 +1,7 @@
 # Hola, Mi nombre es Juan María.👋
 
 ### Sobre mi
-> Soy un egresado de la Tecnicatura Superior en Análisis de Sistemas, trabajo en un taller de electromecánica automotriz y aprendo sobre programación full-stack(MERN) en mis ratos libres, pero deseo que se convierta en mi rutina diaria, a esto lo complementa mi pasión por la tecnología y las ganas de aprender cosas nuevas.🧑‍💻
+> Soy un egresado de la Tecnicatura Superior en Análisis de Sistemas, trabaje como mecánico en el sector automotor por mucho tiempo y aprendía sobre programación en mis ratos libres, hoy se está convirtiendo en mi rutina diaria gracias a que estoy trabajando de ello, esto fortalece mi pasión por la tecnología y las ganas de aprender cosas nuevas.🧑‍💻
 
 | Detalle de proyecto | Enlace/Repositorio |
 | ------------- | ------------- |
