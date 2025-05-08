@@ -7,5 +7,5 @@
 | ------------- | ------------- |
 | Pokedex - Resultado de la tarea de un curso utilizando React.js  |[Pokedex-Vercel](https://pokedex-in-react.vercel.app/)  [Pokedex](https://github.com/JuuanmaSR/Pokedex-in-React)  |
 | Giffy - Resultado de la tarea de un curso de React  |[Giffy-Vercel](https://giffy-project.vercel.app/)  [Giffy](https://github.com/JuuanmaSR/giffy-project)  |
-| Brand page RIL(colaboración) - Colaboración en el desarrollo de brand page propiedad de Red de Innovacion Local  |[Web-Netlify](https://dev-redinnovacionlocal.netlify.app/) |
+| Brand page RIL - Colaboración en el desarrollo de brand page propiedad de Red de Innovacion Local  |[Web-dev](https://dev-redinnovacionlocal.netlify.app/) [Web-oficial](https://www.redinnovacionlocal.org/)|
 
